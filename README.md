@@ -2,8 +2,12 @@
 
 A new Flutter UI.
 
-![screenshots](Img1.jpg)
-![screenshots](img2.jpg)
+
+
+<p align="center">
+  <img src="screenshots/Img1.jpg" width="350" title="hover text">
+  <img src="screenshots/img2.jpg" width="350" alt="accessibility text">
+</p>
 
 
 ## Getting Started
