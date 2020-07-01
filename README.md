@@ -1,6 +1,10 @@
 # musicx
 
-A new Flutter application.
+A new Flutter UI.
+
+![screenshots](Img1.jpg)
+![screenshots](img2.jpg)
+
 
 ## Getting Started
 
