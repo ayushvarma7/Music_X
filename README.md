@@ -1,11 +1,13 @@
-# musicx
+# Music_X
 
 A new Flutter UI.
-
+Minimalistic UI for Music Player App
 
 
 <p align="center">
   <img src="screenshots/Img1.jpg" width="350" title="hover text">
+  </p>
+    <p>
   <img src="screenshots/img2.jpg" width="350" alt="accessibility text">
 </p>
 
